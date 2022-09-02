@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```javascript
-console.log("Hello everyone ^_^")
+console.log("Hello everyone ^_^");
 ```
