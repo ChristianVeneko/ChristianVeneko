@@ -28,6 +28,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ChristianVeneko/ChristianVeneko/output/snake.svg" alt="Snake animation" />
-
 ###
