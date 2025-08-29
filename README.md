@@ -1,31 +1,79 @@
-<h1 align="left">Hey 👋 </h1>
-
-###
-
-<p align="left">Hi, my name is Christian and i'm from Venezuela</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<h3 align="left">🎓 Computer engineering student<br>📚I'm currently learning the technologies that most attract my attention<br>🎯 Goals: Master C#, graduate from the career and work<br>🎲 Fun fact: I hate css for now</h3>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="center">
+  <h1>👋 Hello! I'm Christian</h1>
+  <h3>🎓 Computer Engineering Student from Venezuela 🇻🇪</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ChristianVeneko&color=blue&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
 
-###
+---
 
-###
+## 🚀 About Me
+
+- 🎓 **Computer Engineering Student** passionate about technology and problem-solving
+- 📚 **Currently Learning:** Advanced programming concepts and modern development frameworks
+- 🎯 **Goals:** Master C# development, graduate with excellence, and build a successful tech career
+- 🌱 **Always Growing:** Exploring new technologies and best practices
+- 🎲 **Fun Fact:** I'm learning to appreciate CSS (work in progress! 😅)
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+
+### Tools & Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianVeneko&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianVeneko&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 Let's Connect!
+
+<div align="center">
+  
+  **Feel free to reach out if you want to collaborate or just chat about tech!**
+  
+  <p>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/your-profile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+  
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for visiting my profile! Have a great day! 😊</i>
+</div>
