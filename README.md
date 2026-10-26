@@ -10,7 +10,6 @@
 
 <a href="https://www.christianveneko.com/"><img src="https://img.shields.io/badge/Portfolio-christianveneko.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/christianmendozater/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://christian-mendoza-showreel.vercel.app"><img src="https://img.shields.io/badge/3D%20Showreel-Watch-06b6d4?style=for-the-badge&logo=threedotjs&logoColor=white" alt="3D Showreel" /></a>
 
 </div>
 
@@ -91,13 +90,27 @@ const christian = {
       <br /><a href="https://chartifyy.vercel.app">Live demo →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/platanus-hack/platanus-hack-26-ve-team-21">🛡️ Veridian</a> <sub>· Platanus Hack 26</sub></h3>
+      Hackathon project: learns how each credential is normally used and, with AI, detects and blocks stolen-credential sessions via a drop-in middleware.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ChristianVeneko/diagramita">🧩 Diagramita</a></h3>
+      In-browser ER and UML class diagram editor: Mermaid import with auto-layout, SQL and PNG export, no account or backend.
+      <br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br /><a href="https://diagramita.vercel.app">Live demo →</a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
   <b>More:</b>
   <a href="https://github.com/ChristianVeneko/shortily">Shortily</a> (URL shortener) ·
   <a href="https://github.com/ChristianVeneko/FinanzasProNext">Finanzas Pro</a> ·
-  <a href="https://github.com/ChristianVeneko/PetareScape">Petare Escape</a> (Unity game) ·
   <a href="https://github.com/ChristianVeneko/topAlbumCollage">Top Album Collage</a>
 </p>
 
