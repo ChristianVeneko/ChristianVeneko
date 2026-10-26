@@ -49,11 +49,10 @@ const christian = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ChristianVeneko/doclink">🩺 Doclink</a></h3>
-      Medical SaaS for independent clinics: patients, appointments, diagnoses and prescriptions, with an integrated WhatsApp bot.
+      <h3><a href="https://github.com/ChristianVeneko/veneko-cli">⚡ veneko-cli</a></h3>
+      Cross-platform CLI that scaffolds hexagonal-architecture projects and runs AI-powered tools: docs and scanned PDFs to Markdown, media downloads.
       <br /><br />
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <br /><a href="https://doclink-six.vercel.app">Live demo →</a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ChristianVeneko/redmi-buds-bar">🎧 Redmi Buds Bar</a></h3>
@@ -70,11 +69,10 @@ const christian = {
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ChristianVeneko/christian-mendoza-showreel">🌌 3D Showreel</a></h3>
-      Scroll-driven 3D presentation with Three.js, custom GLSL particles and post-processing (bloom, chromatic aberration, grain).
+      <h3><a href="https://github.com/ChristianVeneko/Catedra">🎓 Catedra</a></h3>
+      Native macOS cockpit over a local mirror of a university Moodle: what's due, statements, per-activity files and one-click sync.
       <br /><br />
-      <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs" /> <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-      <br /><a href="https://christian-mendoza-showreel.vercel.app">Live demo →</a>
+      <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple" />
     </td>
   </tr>
   <tr>
@@ -96,11 +94,11 @@ const christian = {
 </table>
 
 <p align="center">
-  <b>Also building:</b>
-  <a href="https://github.com/ChristianVeneko/Catedra">Catedra</a> (SwiftUI Moodle cockpit) ·
-  <a href="https://github.com/ChristianVeneko/veneko-cli">veneko-cli</a> ·
-  <a href="https://github.com/ChristianVeneko/PetareEscape">Petare Escape</a> (Unity game) ·
-  <a href="https://github.com/ChristianVeneko/FITNESS-XD">Fitness XD</a>
+  <b>More:</b>
+  <a href="https://github.com/ChristianVeneko/shortily">Shortily</a> (URL shortener) ·
+  <a href="https://github.com/ChristianVeneko/FinanzasProNext">Finanzas Pro</a> ·
+  <a href="https://github.com/ChristianVeneko/PetareScape">Petare Escape</a> (Unity game) ·
+  <a href="https://github.com/ChristianVeneko/topAlbumCollage">Top Album Collage</a>
 </p>
 
 ## 📈 GitHub stats
